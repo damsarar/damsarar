@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 👨  I’m Damsara Ranasinghe
-- 🇱🇰   I'm a Sri Lankan
+#### 👨  I’m Damsara Ranasinghe
+
 - 🎓  I’m a Computer Science Undergraduate at University of Colombo School of Computing
 - 💻  I’m a Developer / Co-Founder at GenixLabsLK
 - 🌐  Website: [www.damsararanasinghe.me](https://www.damsararanasinghe.me)
