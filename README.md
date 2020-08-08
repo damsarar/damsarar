@@ -6,3 +6,5 @@
 - 💻  I’m a Developer / Co-Founder at [GenixLabsLK](https://genixlabslk.com/)
 - 🌐  Website: [www.damsararanasinghe.me](https://www.damsararanasinghe.me)
 - 📫  LinkedIn: [www.linkedin.com/in/damsara-ranasinghe](https://www.linkedin.com/in/damsara-ranasinghe/)
+
+[![Damsara's github stats](https://github-readme-stats.vercel.app/api?username=damsarar)](https://github.com/anuraghazra/github-readme-stats)
